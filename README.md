@@ -15,7 +15,7 @@ staff into these roles.
 -The remaining 30% who are retiring should not be as hard to replace as these will be entry level or mid level positions and far
 far less in number than the senior roles.
 #### Retiring Employees Table
-![Results-Image](https://github.com/mmanackal/Election_Analysis/blob/main/Resources/Election-Results.PNG)
+![Results-Image](https://github.com/mmanackal/Pewlett-Hackard-Analysis/blob/main/retiring_titles.PNG)
 - The table below is a snapshot of the mentoship eligibility we pulled for Pewlett Hackard. Although it is great to have this
 information, there are only 1549 who are eligible for mentorship. The organization should either expand its eligibilty
 criteria to include more employees, or begin planning for a focused recruitment effort to fill the vacancies. The number
