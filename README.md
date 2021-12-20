@@ -7,12 +7,11 @@ who will be retiring and the purpose of the mentorship program would be to train
 some of the to-be vacant positions.  
 
 ## Results:
-There is a bulleted list with four major points from the two analysis deliverables. (6 pt)
--Results for the retiring employees were quite alarming. As you can see below, roughly 70% of senior employees will be eligible
+- Results for the retiring employees were quite alarming. As you can see below, roughly 70% of senior employees will be eligible
 for retirement. These employees have a skillset that is valuable to the organization and it will take some time to replace
 these individuals. It is great that the organization is starting the mentorship program to hopefully a good number of mid-level
 staff into these roles. 
--The remaining 30% who are retiring should not be as hard to replace as these will be entry level or mid level positions and far
+- The remaining 30% who are retiring should not be as hard to replace as these will be entry level or mid level positions and far
 far less in number than the senior roles.
 #### Retiring Employees Table
 ![Results-Image](https://github.com/mmanackal/Pewlett-Hackard-Analysis/blob/main/retiring_titles.PNG)
