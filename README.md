@@ -1,6 +1,6 @@
 # Pewlett-Hackard-Analysis
 
-##Overview of the analysis:
+## Overview of the analysis:
 The purpose of the project ws to help Pewlett Hackard determine the number of exisiting retiring employees and identify
 current employees who would be eligible to participate in a mentorship program. The company has a large amount of employees
 who will be retiring and the purpose of the mentorship program would be to train and transition eligible employees into
@@ -25,7 +25,7 @@ part-time or as consultants for a period of time while the company continues to 
 such a large group to leave at once and the organization does need to explore options to retain a group of these employees
 longer if needed. 
 #### Mentorship Eligibility Table
-![Results-Image](https://github.com/mmanackal/Election_Analysis/blob/main/Resources/Election-Results.PNG)
+![Results-Image](https://github.com/mmanackal/Pewlett-Hackard-Analysis/blob/main/Mentorship_Eligibility.PNG)
 
 
 ##Summary:
