@@ -28,11 +28,11 @@ longer if needed.
 ![Results-Image](https://github.com/mmanackal/Pewlett-Hackard-Analysis/blob/main/Mentorship_Eligibility.PNG)
 
 
-##Summary:
+## Summary:
 In addition to the suggestions above, Pewlett Hackard may also want to look into which departments the Senior Staff and Senior
 Engineers belong to. This way they can focus the most recruitment/mentorship resources on the departments with the most senior
 employees who will be retiring. This would be relatively easy to pull from our databases. Another key piece of information would
 be the total salaries by employees and by title. The organization definitely needs to determine if salary ranges need to be
 increased to be competitive with the market. Some positions may need salaries reduced as well. Overall, knowing the market rates
 and existing budget will be important to recruit top candidates. 
-The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
+
